@@ -11,7 +11,7 @@
 
 ---
 
-![Big Brother](assets/project.jpg)
+![Big Brother](marquee-1400x560.png)
 
 ---
 
