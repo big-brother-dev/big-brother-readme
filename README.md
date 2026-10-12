@@ -11,7 +11,7 @@
 
 ---
 
-![Big Brother](marquee-1400x560.png)
+![Big Brother](marquee-1400x560.jpg)
 
 ---
 
